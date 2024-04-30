@@ -1,3 +1,5 @@
 I'm using this file to test my ability to use GitHub. 
 
 I'm adding these lines because I want to practice pushing updates to GitHub remotely.
+
+These is the text (or CODE) added to this branch. Is it okay to merge this with the main branch?
